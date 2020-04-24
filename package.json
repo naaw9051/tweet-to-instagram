@@ -1,0 +1,20 @@
+{
+  "name": "tweet-to-instagram",
+  "version": "1.0.0",
+  "description": "tweet-to-instagram",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "twitter-autohook": "^1.6.0"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.3"
+  }
+}
