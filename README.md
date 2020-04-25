@@ -8,7 +8,6 @@ To protect your secrets, like your Twitter-APIKEYS, it's best to configure them 
 Just create a file named `.env` and add your token:
 
 ```yaml
-DISCAPI_TOKEN=REPLACE_WITH_YOUR_TOKEN
 TWITTER_ACCESS_TOKEN=REPLACE_WITH_YOUR_TOKEN
 TWITTER_ACCESS_TOKEN_SECRET=REPLACE_WITH_YOUR_TOKEN
 TWITTER_CONSUMER_KEY=REPLACE_WITH_YOUR_TOKEN
